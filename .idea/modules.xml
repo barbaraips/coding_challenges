@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Banco/Banco.iml" filepath="$PROJECT_DIR$/Banco/Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoubleTrouble/DoubleTrouble.iml" filepath="$PROJECT_DIR$/DoubleTrouble/DoubleTrouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TripleTrouble/TripleTrouble.iml" filepath="$PROJECT_DIR$/TripleTrouble/TripleTrouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkbook_balancing/checkbook_balancing.iml" filepath="$PROJECT_DIR$/checkbook_balancing/checkbook_balancing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string-peeler/string-peeler.iml" filepath="$PROJECT_DIR$/string-peeler/string-peeler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetordepalavras/vetordepalavras.iml" filepath="$PROJECT_DIR$/vetordepalavras/vetordepalavras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vowel-counter/vowel-counter.iml" filepath="$PROJECT_DIR$/vowel-counter/vowel-counter.iml" />
+    </modules>
+  </component>
+</project>
